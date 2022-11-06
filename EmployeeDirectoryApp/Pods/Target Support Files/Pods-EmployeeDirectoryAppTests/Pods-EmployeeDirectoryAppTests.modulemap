@@ -1,0 +1,6 @@
+framework module Pods_EmployeeDirectoryAppTests {
+  umbrella header "Pods-EmployeeDirectoryAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  EmployeeDirectoryApp
+
+  Created by Melek Ramki on 2022-11-03.
+  
+*/
+
+"employees_screen_navigation_bar_title" = "Employee Directory"; //
+"employees_screen_empty_message" = "Directory is empty, Please refresh"; //
+"employees_screen_no_internet" = "No internet"; //
+"employees_screen_no_internet_message" = "Please check your internet connectiom"; //
+"employees_screen_error" = "Something went wrong"; //
