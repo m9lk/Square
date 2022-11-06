@@ -25,17 +25,17 @@
 
 #pragma mark - Constants
 
-static NSString *const kUuid= @"uuid";
+static NSString *const kUuid = @"uuid";
 static NSString *const kFullname = @"full_name";
 static NSString *const kPhoneNumber = @"phone_number";
 static NSString *const kEmail = @"email_address";
-static NSString *const kBiography= @"biography";
-static NSString *const kSmallPhoto= @"photo_url_small";
-static NSString *const kLargePhoto= @"photo_url_large";
+static NSString *const kBiography = @"biography";
+static NSString *const kSmallPhoto = @"photo_url_small";
+static NSString *const kLargePhoto = @"photo_url_large";
 static NSString *const kTeam = @"team";
 static NSString *const kType = @"employee_type";
 
-static NSString *const kFulltime= @"FULL_TIME";
+static NSString *const kFulltime = @"FULL_TIME";
 static NSString *const kParttime = @"PART_TIME";
 static NSString *const kContractor = @"CONTRACTOR";
 

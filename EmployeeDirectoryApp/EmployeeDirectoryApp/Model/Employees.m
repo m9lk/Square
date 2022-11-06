@@ -11,8 +11,8 @@
 
 #pragma mark - Constants
 
-static NSString *const kEmployees= @"employees";
-static NSString *const kFullname= @"fullname";
+static NSString *const kEmployees = @"employees";
+static NSString *const kFullname = @"fullname";
 
 #pragma mark - Init
 
