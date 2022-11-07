@@ -10,7 +10,7 @@ Targets iOS 12+
 2) Run pod install
 3) Open EmployeeDirectoryApp.xcworkspace
 4) For each Target -> Signing & Capabilities -> Team -> Select Team
-5) run the project on your preferred device or simulator
+5) Run the project on your preferred device or simulator
 
 ## What areas of the app did you focus on?
 
